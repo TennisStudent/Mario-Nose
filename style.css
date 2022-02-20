@@ -1,0 +1,51 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+h3
+{
+    display: inline;
+}
+.instructions
+{
+    float: right;
+    border: 1px solid rgb(229, 252, 255)
+}
+.big_image
+{
+    width: 100%;
+}
+.copy-right-footer
+{
+    width: 100%;
+    bottom: 0;
+    background-color: aliceblue;
+    color:rgb(86, 126, 235);
+    text-align:center;
+    line-height: 2;
+    font-size: 14px;
+}
+#catchphrase
+{
+    font-size: 14px;
+    font-family: 'Georgia';
+    margin-left: 200px;
+    color:rgb(255, 206, 206);
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.instructions_image
+{
+    display: inline-block;
+    width: 45%;
+}
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 24px;
+}
